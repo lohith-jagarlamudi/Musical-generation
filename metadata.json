@@ -1,0 +1,5 @@
+{
+  "name": "RagaFlow AI",
+  "description": "An AI-powered Carnatic music composition system that generates and synthesizes traditional South Indian melodic patterns based on Raga and Tala specifications.",
+  "requestFramePermissions": []
+}
